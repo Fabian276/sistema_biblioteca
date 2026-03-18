@@ -23,7 +23,22 @@
         <h1 class="texto-cargando">Cargando<span class="dot1">.</span><span class="dot2">.</span><span class="dot3">.</span></h1>
     </div>
 
+
+
+<!-- trabajo mich  -->
+
+<button class="Boton_editar" type="button">editar</button>
+
+
+
+
+
+
+
+<!-- de aqui para abajo no se mueve  -->
+=======
     <button class="boton_subir" >subir</button>
+
 
     <div class="contenido">
         <form action="#" method="get" class="formulario-resena">
