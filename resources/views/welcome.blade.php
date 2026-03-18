@@ -10,6 +10,8 @@
 </head>
 
 <body>
+
+
     <div id="pantalla-carga">
         <div class="book">
             <div class="book__pg-shadow"></div>
@@ -23,6 +25,7 @@
         <h1 class="texto-cargando">Cargando<span class="dot1">.</span><span class="dot2">.</span><span class="dot3">.</span></h1>
     </div>
 
+        
 
 
     <div class="contenido">
