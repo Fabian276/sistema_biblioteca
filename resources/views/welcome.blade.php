@@ -83,7 +83,9 @@
                 </footer>
             </form>
         </article>
-    </div>s
+    </div>
+    <button class="boton_subir">subir</button>
+    <br>
     <script>
 
     </script>
