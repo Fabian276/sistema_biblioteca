@@ -25,6 +25,19 @@
         <h1 class="texto-cargando">Cargando<span class="dot1">.</span><span class="dot2">.</span><span class="dot3">.</span></h1>
     </div>
 
+ feature/buscador
+    <form>
+    <input type="text" placeholder="Buscar libros, usuarios..." />
+    <button type="submit">Buscar</button>
+</form>
+<form style="display:flex; gap:10px;">
+    <input type="text" placeholder="Buscar..." style="padding:8px; width:250px;">
+    <button type="submit" style="padding:8px;">🔍</button>
+</form>
+    <!-- Agregar cualquier script JS que sea necesario -->
+    
+=======
+ main
 
   <div class="contenido">
         <form action="#" method="get" class="formulario-resena">
