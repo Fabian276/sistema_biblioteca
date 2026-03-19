@@ -10,6 +10,8 @@
 </head>
 
 <body>
+
+
     <div id="pantalla-carga">
         <div class="book">
             <div class="book__pg-shadow"></div>
@@ -24,12 +26,34 @@
         <h1 class="texto-cargando">Cargando<span class="dot1">.</span><span class="dot2">.</span><span class="dot3">.</span></h1>
     </div>
 
+ feature/buscador
+    <form>
+    <input type="text" placeholder="Buscar libros, usuarios..." />
+    <button type="submit">Buscar</button>
+</form>
+<form style="display:flex; gap:10px;">
+    <input type="text" placeholder="Buscar..." style="padding:8px; width:250px;">
+    <button type="submit" style="padding:8px;">🔍</button>
+</form>
+    <!-- Agregar cualquier script JS que sea necesario -->
+    
+=======
+ main
 
+ main
+=======
+  <div class="contenido">
+        <form action="#" method="get" class="formulario-resena">
+
+<!-- trabajo mich  -->
+<button class="Boton_editar" type="button">editar</button>
+
+
+ main
 <!-- de aqui para abajo no se mueve  -->
 
+    <button class="boton_subir" >subir</button>
 
-    <div class="contenido">
-        <form action="#" method="get" class="formulario-resena">
 
         <!-- trabajo mich  -->
 
@@ -67,6 +91,10 @@
 
         </form>
     </div>
+
+
+
+  
     <script>
         // Esto espera a que tu página termine de cargar
         window.addEventListener('load', function() {
