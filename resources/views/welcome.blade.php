@@ -25,11 +25,18 @@
         <h1 class="texto-cargando">Cargando<span class="dot1">.</span><span class="dot2">.</span><span class="dot3">.</span></h1>
     </div>
 
-        
 
-
-    <div class="contenido">
+  <div class="contenido">
         <form action="#" method="get" class="formulario-resena">
+
+<!-- trabajo mich  -->
+<button class="Boton_editar" type="button">editar</button>
+
+
+<!-- de aqui para abajo no se mueve  -->
+
+    <button class="boton_subir" >subir</button>
+
 
             <div class="caja-texto">
                 <label for="opinion">Escribe tu reseña:</label>
@@ -54,6 +61,10 @@
 
         </form>
     </div>
+
+
+
+  
     <script>
         // Esto espera a que tu página termine de cargar
         window.addEventListener('load', function() {
